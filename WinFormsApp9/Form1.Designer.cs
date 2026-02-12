@@ -6,6 +6,19 @@
         ///  Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
+        private System.Windows.Forms.Label lblTitle;
+        private System.Windows.Forms.Label lblNumber1;
+        private System.Windows.Forms.Label lblNumber2;
+        private System.Windows.Forms.TextBox txtNumber1;
+        private System.Windows.Forms.TextBox txtNumber2;
+        private System.Windows.Forms.GroupBox groupResults;
+        private System.Windows.Forms.Label lblSum;
+        private System.Windows.Forms.Label lblSub;
+        private System.Windows.Forms.Label lblMul;
+        private System.Windows.Forms.Label lblSumResult;
+        private System.Windows.Forms.Label lblSubResult;
+        private System.Windows.Forms.Label lblMulResult;
+        private System.Windows.Forms.Button btnClear;
 
         /// <summary>
         ///  Clean up any resources being used.
